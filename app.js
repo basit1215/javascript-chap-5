@@ -144,6 +144,19 @@ var area;
 area= pi*(radius**2) + "<br>";
 document.write("The area is: " + area + "<br>" + "<br>");
 
+document.write("<b>Lifetime Supply Calculator:</b>" + "<br>");
+var fvrt_snack="Chocolate";
+var current_age=18;
+var max_age=62;
+var estimated_amount=2;
+var need_last_total;
+need_last_total=(62-18)*2;
+document.write("Favourite Snack: " + fvrt_snack + "<br>");
+document.write("Current age: "+ current_age + "<br>");
+document.write("Estimated Maximum Age: "+ max_age + "<br>");
+document.write("Amount of snacks per day " + estimated_amount + "<br>");
+document.write("You will need " + need_last_total + " chocolate to last you until the ripe old age of  " + estimated_amount + "<br>" + "<br>");
+
 
 
 
