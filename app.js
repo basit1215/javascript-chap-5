@@ -35,7 +35,7 @@ document.write("Value after modulus by 3 a reminder is:" + number + "<br>" + "<b
  document.write("Total cost to buy " + total_ticket + " tickets to a movie is  <b>" +  total  + "PKR</b>" + "<br>" + "<br>")
 
 
- document.write("Table of 4" + "<br>");
+ document.write("Table of 8" + "<br>");
 
 var table=8;
 var multiply=1;
